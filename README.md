@@ -1,3 +1,9 @@
+Recovering from the pandemic, the international exchange reboots. We hold this workshop in Kanazawa-Hakkei Campus of Yokohama City University on January 20th, 2024. We will have oral presentations by students and invited speakers from Japan, Thailand, Indonesia and Canada. We hope the strong interaction between participants from various countries.
+
+# Registration
+
+closed
+
 # Program
 
 Friday, January 20th 9:00–17:20, 2024<br>
@@ -99,3 +105,11 @@ Chair: Tomomi Shimazaki (Yokohama City University, Japan)
 [Kanazawa-Hakkei Campus of Yokohama City University](https://goo.gl/maps/UwE5dQeStBsi8jVu5) is a 5-minutes walk from [Kanazawa-Hakkei Station](https://maps.app.goo.gl/mWU5TP94mPia5UZX8) of [Keikyu line](https://www.haneda-tokyo-access.com/en/).
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13019.591406458434!2d139.5989118!3d35.333358!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601843fd143d2285%3A0xa2bfcf87b9aac00d!2sYokohama%20City%20University%20Kanazawa-Hakkei%20Campus!5e0!3m2!1sen!2sjp!4v1704183177009!5m2!1sen!2sjp" width="600" height="450" style="border:0;margin-bottom:30px; max-width: 100%;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+## Organizers
+
+TBA
+
+## Acknowledgment
+
+TBA
