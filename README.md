@@ -69,7 +69,8 @@ Chair: Yukiumi Kita (Yokohama City University, Japan)
 | 15:05 | 15:20 | **Kiriko Ishii** (TOKYO OHKA KOGYO CO., LTD.) |
 | 15:20 | 15:35 | IWQC_OP12<br>**Daisuke Yoshida** (RIKEN, Japan)<br>THEORETICAL STUDIES ON POSITRON BINDING PROPERTIES IN MOLECULAR CLUSTERS |
 
-Chair:	Kazuaki Kuwahata (Yokohama City University, Japan) 
+Chair:	Kazuaki Kuwahata (Yokohama City University, Japan)
+
 | Start | End   |         |
 | :---: | :---: | :------ |
 | 15:35 | 15:45 | **Aiko Hayashi(Io)** (Nissan Chemical Corp.) |
