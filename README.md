@@ -38,7 +38,7 @@ Chair: Makito Takagi (Yokohama City University, Japan)
 | 10:40 | 10:50 | IWQC_OP07<br>**Wassana Mongkonkan** (Ubon Ratchathani University, Thailand)<br>THE EFFECT OF NON-METAL DOPED GRAPHITIC CARBON NITRIDE FOR CARBON DIOXIDE REDUCTION REACTION: A DFT STUDY |
 | 10:50 | 11:00 | IWQC_OP08<br>**Rie Yoshimoto** (Ibaraki University, Japan)<br>Theoretical Investigations of Palladium-Catalyzed [3+2] Annulation via Benzylic and meta C−H Bond Activation |
 | 11:00 | 11:15 | IWQC_OP09<br>**Hafiz Aji Aziz** (King Mongkut's Institute of Technology Ladkrabang, Thailand)<br>Investigation into the mechanism of catalytic hydrodesulfurization of dimethyl sulfide over W3O6 cluster using Density Functional Theory |
-| 11:15 | 11:30 | IWQC_OP10<br>**Hiroki Sakagami** (Yokohama City University, Japan)<br>TBA | 
+| 11:15 | 11:30 | IWQC_OP10<br>**Hiroki Sakagami** (Yokohama City University, Japan)<br>Development of combined plane wave and localized basis sets method toward the analysis of H/D isotope effect on CH₄/CD₄ adsorption on metal surface |
 
 ### Lunch Break (90 min.)
 
