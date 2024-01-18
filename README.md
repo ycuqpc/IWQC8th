@@ -2,7 +2,7 @@ Recovering from the pandemic, the international exchange reboots. We hold this w
 
 # Registration
 
-closed
+Thank you for your applications!
 
 # Program
 
