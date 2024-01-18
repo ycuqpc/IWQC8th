@@ -25,7 +25,7 @@ Chair: Osamu Kobayashi (Yokohama City University, Japan)
 |  9:20 |  9:30 | IWQC_OP02<br>**Chatnicha Hongthong** (King Mongkut's Institute of Technology Ladkrabang, Thailand)<br>Theoretical investigations of the heteroatom and substituent effects on photophysical properties of thioanisole and its derivatives |
 |  9:30 |  9:40 | IWQC_OP03<br>**Wutthana Inporn** (King Mongkut's Institute of Technology Ladkrabang, Thailand)<br>Substituting effect to excited-state intramolecular proton transfer reactions of 1,8-di(pyridin-2-yl)-9H-carbazole and its derivatives: A Dynamics Simulation |
 |  9:40 |  9:50 | IWQC_OP04<br>**Monruedee Meerawan** (Ubon Ratchathani University, Thailand)<br>A THEORETICAL STUDY FOCUSING ON THE DESIGN AND DEVELOPMENT OF EFFICIENT PHOTOCATALYSTS FOR WATER-SPLITTING FOR HYDROGEN |
-|  9:50 | 10:05 | IWQC_OP05<br>**Shuhei Ohno** (Yokohama City University, Japan)<br>TBA | 
+|  9:50 | 10:05 | IWQC_OP05<br>**Shuhei Ohno** (Yokohama City University, Japan)<br>Electron Localization in Vibrational Excited HD⁺ | 
 | 10:05 | 10:25 | **Coffee Break & Photo Session** (20 min.) |
 
 ### Session 2
