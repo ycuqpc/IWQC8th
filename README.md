@@ -109,7 +109,7 @@ Chair: Tomomi Shimazaki (Yokohama City University, Japan)
 
 ## Organizers
 
-TBA
+Quantum Physical Chemistry Laboratory, Yokohama City University
 
 ## Acknowledgment
 
